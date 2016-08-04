@@ -1,0 +1,31 @@
+_repo: The-Trees-of-Pride_1721
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: Cover; Title Page; Copyright; Table of Contents; I. THE TALE OF THE PEACOCK
+  TREES; II. THE WAGER OF SQUIRE VANE; III. THE MYSTERY OF THE WELL; IV. THE CHASE
+  AFTER THE TRUTH
+gutenberg_issued: '1999-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Mystery fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Trees of Pride
+url: http://www.gutenberg.org/ebooks/1721
