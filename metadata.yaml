@@ -1,5 +1,8 @@
 _repo: The-Trees-of-Pride_1721
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chesterton, G. K. (Gilbert Keith)
@@ -14,6 +17,8 @@ creator:
 description: Cover; Title Page; Copyright; Table of Contents; I. THE TALE OF THE PEACOCK
   TREES; II. THE WAGER OF SQUIRE VANE; III. THE MYSTERY OF THE WELL; IV. THE CHASE
   AFTER THE TRUTH
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1721#The-Trees-of-Pride
 gutenberg_issued: '1999-04-01'
 gutenberg_type: Text
 identifiers:
